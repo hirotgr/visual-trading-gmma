@@ -1,0 +1,25 @@
+{
+  "last_state": "上昇トレンド継続",
+  "updated_at": "2026-02-27T18:10:11.775504+00:00",
+  "source_mtime": "2026-02-27T18:10:05.108924+00:00",
+  "metrics": {
+    "short_slope": -0.00022792706084980547,
+    "long_slope": -0.0011842328096275114,
+    "group_gap": 0.1523892773892774,
+    "short_spread": 0.017089794263707308,
+    "long_spread": 0.06848586196412283,
+    "short_mean_y": 78.0036231884058,
+    "long_mean_y": 165.17028985507247,
+    "short_columns": 138,
+    "long_columns": 138,
+    "short_pixels_right": 1602,
+    "long_pixels_right": 2790,
+    "roi_width": 798,
+    "roi_height": 572,
+    "effective_plot_right_x": 709,
+    "effective_plot_width": 709,
+    "analysis_window_start_x": 568,
+    "analysis_window_end_x": 709,
+    "analysis_window_width": 141
+  }
+}
